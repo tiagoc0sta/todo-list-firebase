@@ -19,9 +19,7 @@ Technologies used:
 
 ## Demo
 
-- [Online app (Netlify) - click here](https://fascinating-paletas-10b32b.netlify.app/)
-
-- [Online app (Github) - click here](https://tiagoc0sta.github.io/Habits/)
+- [Online app (Netlify) - click here](https://master--illustrious-rugelach-553200.netlify.app/)
 
 ## Web App
 
